@@ -1,7 +1,3 @@
-Here is an even more polished, professional, and comprehensive version of the documentation that is structured to cater to a wide audience, including users, contributors, and developers. This version emphasizes clarity, usability, and professionalism.
-
----
-
 # **NetScope: Asynchronous Network Scanner**
 
 NetScope is a Python-based, asynchronous network scanner powered by Nmap. It offers fast, efficient, and flexible tools for network discovery, port scanning, and optional vulnerability detection, making it a valuable resource for system administrators, network engineers, and security professionals.
